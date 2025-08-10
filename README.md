@@ -25,7 +25,7 @@ IconDeck is a lightweight web-based tool that allows users to easily **browse, p
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
+- JavaScript
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js/)
 
 ## 📦 How to Use
