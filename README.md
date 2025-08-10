@@ -45,12 +45,12 @@ IconDeck is a lightweight web-based tool that allows users to easily **browse, p
 4. Start browsing and downloading icons!
 
 ## 🤝 Contributing
-Inspired by VINOD J
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
+Inspired by VINOD J
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 
-Made with ❤️ by [Sujith-2193](https://github.com/Sujith-2193)
+Developed by [Sujith-2193](https://github.com/Sujith-2193)
