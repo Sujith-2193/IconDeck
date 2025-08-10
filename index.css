@@ -211,7 +211,7 @@ main{
 }
 .main-desc{
     display: flex;
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: var(--light-text-secondary);
     letter-spacing: 0.5px;
     font-weight: 400;
