@@ -1,6 +1,6 @@
 # 🎨 IconDeck
 
-IconDeck is a lightweight web-based tool that allows users to easily **browse, preview, and download icons**. It's perfect for developers and designers looking for a quick and simple interface to grab icon assets inspired by VINOD J.
+IconDeck is a lightweight web-based tool that allows users to easily **browse, preview, and download icons**. It's perfect for developers and designers looking for a quick and simple interface to grab icon assets inspired by vinod.
 
 ## 🚀 Features
 
